@@ -13,12 +13,15 @@ The analysis evaluates the evolutionary and compounding effects of the job multi
 * `Scripts`: Contains the code for each step of the panel data analysis.
 
 ### Script Guide:
-To replicate specific tables and figures, refer to the corresponding scripts *(Note: update the file names if yours differ)*:
-* **Table 1:** `Table 1.R` - *ARRA Employment Multiplier Estimates comparing TWFE models and the CGBS ATT estimator*
-* **Table 2:** `Table 2.R` - *Cost per Job Multipliers conversion across different estimators*
-* **Figure 1:** `Figure 1.R` - *Pre-Period Parallel Trends tests for Median Split & Quarters*
-* **Figure 2:** `Figure 2.R` - *Dynamic Event Study applying the Callaway, Goodman-Bacon, and Sant'Anna (CGBS) estimator*
-* **Figure 3:** `Figure 3.R` - *ARRA Spending Pace vs. Marginal Employment Effect overtime*
+The Reassessing the ARRA Employment Multiplier.R script contains:
+- *Pre-Period Parallel Trends tests for Median Split & Quarters*
+- *Chodorow-Reich (2019) original estimation using IV*
+- *Dynamic Event Study applying the Callaway and Sant'Anna (2021) estimator*
+- *Two-way Fixed Effects estimation*
+- *Callaway, Goodman-Bacon, and Sant'Anna (CGBS) estimation*
+- *Dynamic Event Study applying CGBS estimator*
+- *Cost per Job Multipliers conversion across different estimators*
+- *ARRA Employment Multiplier Estimates comparing baseline IV model, TWFE models and the CGBS ATT estimator*
 
 ### Data Gathering
 * The primary data used for this paper relies on the harmonized state-level dataset created by Chodorow-Reich (2019), spanning from December 2007 up to January 2011. Granular state-level statistics reported by federal agencies were sourced from the Recovery.gov website.
