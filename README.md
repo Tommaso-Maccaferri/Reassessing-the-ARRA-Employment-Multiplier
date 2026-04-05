@@ -9,8 +9,8 @@ Reassessing the ARRA Employment Multiplier 2026.pdf
 The analysis evaluates the evolutionary and compounding effects of the job multiplier using panel data econometric techniques, specifically applying continuous treatment estimators. The code covers the main tables and dynamic event studies presented in the paper.
 
 ### Repository Structure:
-* `Reassessing the ARRA Employment Multiplier 2026.pdf`: The final output describing the continuous treatment difference-in-difference methodology and the results.
-* `Reassessing the ARRA Employment Multiplier.R`: Contains the code for each step of the panel data analysis.
+* `Tommaso Maccaferri-Reassessing the ARRA Employment Multiplier 2026.pdf`: The final output describing the continuous treatment difference-in-difference methodology and the results.
+* `Script: Reassessing the ARRA Employment Multiplier.R`: Contains the code for each step of the panel data analysis.
 
 ### Script Guide:
 The Reassessing the ARRA Employment Multiplier.R script contains:
