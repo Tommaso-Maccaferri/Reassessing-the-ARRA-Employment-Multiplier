@@ -3,7 +3,7 @@
 This repository contains an original econometric research paper that completes a comprehensive reassessment of the employment effects that the American Recovery and Reinvestment Act (ARRA) spending policy carried across the fifty United States between February 2009 and December 2010.
 
 ## The Paper
-Reassessing the ARRA Employment Multiplier 2026.pdf
+Tommaso-Maccaferri: Reassessing the ARRA Employment Multiplier.pdf
 
 ## The Code
 The analysis evaluates the evolutionary and compounding effects of the job multiplier using panel data econometric techniques, specifically applying continuous treatment estimators. The code covers the main tables and dynamic event studies presented in the paper.
